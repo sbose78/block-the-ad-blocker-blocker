@@ -1,5 +1,5 @@
 # block-the-ad-blocker-blocker
-A chrome extension to block the ad-blocker blocker ( phew! ) for Times Of India and India Today . 
+A chrome extension to block the ad-blocker blocker ( phew! ) for Times Of India , Hindustan Times and India Today . 
 
 # Installing the pre-release extension
 
